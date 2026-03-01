@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Heartless",
+  "base_artist": "The Weeknd",
+  "createdAt": "2026-03-01T01:23:56.406289Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heartless (feat. Morgan Wallen)",
+      "artist": "Diplo feat. Morgan Wallen",
+      "has_synced": true,
+      "path": "select/01_Heartless_(feat._Morgan_Wallen)_Diplo_feat._Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Heartless (feat. Morgan Wallen) (Wallen Album Mix)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/02_Heartless_(feat._Morgan_Wallen)_(Wallen_Album_Mix)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Heartless",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/03_Heartless_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Heartless",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/04_Heartless_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heartless",
+      "artist": "Stacey Q",
+      "has_synced": false,
+      "path": "select/05_Heartless_Stacey_Q.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Land of Tha Heartless",
+      "artist": "Bone Thugs-n-Harmony",
+      "has_synced": false,
+      "path": "select/06_Land_of_Tha_Heartless_Bone_Thugs-n-Harmony.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "For the Heartless",
+      "artist": "Birthh",
+      "has_synced": true,
+      "path": "select/07_For_the_Heartless_Birthh.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Heartless (feat. Morgan Wallen)",
+      "artist": "Diplo feat. Julia Michaels & Morgan Wallen",
+      "has_synced": true,
+      "path": "select/08_Heartless_(feat._Morgan_Wallen)_Diplo_feat._Julia_Michaels_&_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heartless (feat. Morgan Wallen & Julia Michaels)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/09_Heartless_(feat._Morgan_Wallen_&_Julia_Michaels)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Heartless (feat. Morgan Wallen)",
+      "artist": "Diplo",
+      "has_synced": true,
+      "path": "select/10_Heartless_(feat._Morgan_Wallen)_Diplo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Heartless Heart",
+      "artist": "Dokken",
+      "has_synced": true,
+      "path": "select/11_Heartless_Heart_Dokken.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Heartless",
+      "artist": "Pythia",
+      "has_synced": true,
+      "path": "select/12_Heartless_Pythia.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Heartless",
+      "artist": "HIM",
+      "has_synced": false,
+      "path": "select/13_The_Heartless_HIM.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Heartless",
+      "artist": "HIM",
+      "has_synced": true,
+      "path": "select/14_The_Heartless_HIM.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heartless World",
+      "artist": "Unleash the Archers",
+      "has_synced": true,
+      "path": "select/15_Heartless_World_Unleash_the_Archers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Heartless At Best",
+      "artist": "New Found Glory",
+      "has_synced": true,
+      "path": "select/16_Heartless_At_Best_New_Found_Glory.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Heartless",
+      "artist": "Kanye West",
+      "has_synced": true,
+      "path": "select/17_Heartless_Kanye_West.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Heartless",
+      "artist": "Vanilla Ninja",
+      "has_synced": true,
+      "path": "select/18_Heartless_Vanilla_Ninja.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Heartless",
+      "artist": "The Weeknd",
+      "has_synced": false,
+      "path": "select/pl_01_Heartless_The_Weeknd.txt"
+    }
+  ]
+}
